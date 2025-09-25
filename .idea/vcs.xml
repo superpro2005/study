@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Efficient-YOLO-RS-Airplane-Detection" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/yolov8m-plane-detection" vcs="Git" />
   </component>
 </project>
